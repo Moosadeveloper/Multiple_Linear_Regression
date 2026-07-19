@@ -89,9 +89,9 @@ Predicted Weight: 72.45 kg
 ```text
 Multiple_Linear_Regression/
 │
-├── Multiple_Linear_Regression.ipynb
+├── Multiple Linear Regression.ipynb
 ├── README.md
-└── dataset.csv
+└── weight-height.csv
 ```
 
 ---
